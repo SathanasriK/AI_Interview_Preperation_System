@@ -1,0 +1,64 @@
+{
+  "Software Engineer": {
+    "Easy": [
+      "Tell me about yourself.",
+      "Why do you want to work as a Software Engineer?",
+      "What are your strengths?",
+      "How do you stay updated with new technologies?"
+    ],
+    "Medium": [
+      "Describe a challenging project you worked on.",
+      "How do you handle tight deadlines?",
+      "Tell me about a time you worked in a team.",
+      "How do you handle criticism from teammates?"
+    ],
+    "Hard": [
+      "Describe a failure in your career and what you learned.",
+      "How do you manage conflicts in a development team?",
+      "Tell me about a time you had to learn a technology quickly.",
+      "How would you handle a project that is falling behind schedule?"
+    ]
+  },
+
+  "Data Scientist": {
+    "Easy": [
+      "Why did you choose Data Science as a career?",
+      "What tools do you use for data analysis?",
+      "Tell me about your experience with datasets.",
+      "What motivates you in a data science role?"
+    ],
+    "Medium": [
+      "Describe a data science project you worked on.",
+      "How do you explain complex models to non-technical people?",
+      "How do you handle missing data?",
+      "How do you prioritize tasks in a project?"
+    ],
+    "Hard": [
+      "Tell me about a failed model you built and why it failed.",
+      "How do you handle disagreements about model results?",
+      "Describe a time you improved a model’s performance.",
+      "How do you ensure ethical use of data?"
+    ]
+  },
+
+  "Frontend Developer": {
+    "Easy": [
+      "Why do you enjoy frontend development?",
+      "What frontend frameworks have you used?",
+      "How do you ensure a good user experience?",
+      "Tell me about your favorite frontend project."
+    ],
+    "Medium": [
+      "Describe a UI challenge you solved.",
+      "How do you handle feedback from designers?",
+      "How do you optimize website performance?",
+      "How do you manage cross-browser compatibility?"
+    ],
+    "Hard": [
+      "Describe a time you redesigned a poor user interface.",
+      "How do you manage complex frontend state?",
+      "How do you deal with performance issues in large apps?",
+      "Tell me about a time you improved accessibility."
+    ]
+  }
+}

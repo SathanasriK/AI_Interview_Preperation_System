@@ -1,0 +1,64 @@
+{
+  "Software Engineer": {
+    "Easy": [
+      "What is a variable in programming?",
+      "What is a function?",
+      "What is object oriented programming?",
+      "What is the difference between compiled and interpreted languages?"
+    ],
+    "Medium": [
+      "Explain polymorphism in object oriented programming.",
+      "What is the difference between stack and queue?",
+      "What is a REST API?",
+      "Explain the MVC architecture."
+    ],
+    "Hard": [
+      "How would you design a URL shortener?",
+      "Explain how a distributed system works.",
+      "What are microservices and their advantages?",
+      "How would you design a scalable logging system?"
+    ]
+  },
+
+  "Data Scientist": {
+    "Easy": [
+      "What is a dataset?",
+      "What is data cleaning?",
+      "What is supervised learning?",
+      "What is a feature in machine learning?"
+    ],
+    "Medium": [
+      "Explain the bias-variance tradeoff.",
+      "What is cross validation?",
+      "What is overfitting and how can you prevent it?",
+      "Explain the difference between classification and regression."
+    ],
+    "Hard": [
+      "How would you build a recommendation system?",
+      "Explain gradient boosting.",
+      "How do you deploy a machine learning model?",
+      "Explain the difference between bagging and boosting."
+    ]
+  },
+
+  "Frontend Developer": {
+    "Easy": [
+      "What is HTML?",
+      "What is CSS?",
+      "What is JavaScript?",
+      "What is the DOM?"
+    ],
+    "Medium": [
+      "What is the difference between React and Angular?",
+      "Explain the concept of virtual DOM.",
+      "What are CSS Flexbox and Grid?",
+      "What is responsive design?"
+    ],
+    "Hard": [
+      "How does React state management work?",
+      "What is server-side rendering?",
+      "How would you optimize a slow React application?",
+      "Explain code splitting and lazy loading."
+    ]
+  }
+}

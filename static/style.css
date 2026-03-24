@@ -1,0 +1,42 @@
+.title{
+text-align:center;
+font-size:40px;
+color:white;
+margin-bottom:5px;
+}
+
+.subtitle{
+text-align:center;
+font-size:18px;
+color:#dddddd;
+margin-bottom:30px;
+}
+
+.stApp{
+background: linear-gradient(135deg,#667eea,#764ba2);
+}
+
+.question-box{
+background:white;
+padding:25px;
+border-radius:10px;
+margin-top:20px;
+margin-bottom:20px;
+box-shadow:0 4px 15px rgba(0,0,0,0.2);
+}
+
+.result-box{
+background:white;
+padding:25px;
+border-radius:10px;
+margin-top:20px;
+box-shadow:0 4px 15px rgba(0,0,0,0.2);
+}
+
+button{
+background:#667eea;
+color:white;
+border-radius:8px;
+padding:10px;
+font-weight:bold;
+}
